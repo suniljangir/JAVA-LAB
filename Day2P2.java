@@ -1,3 +1,5 @@
+//Function calling using created object
+
 class Day2P2
 {
 	public static void main(String args[])
