@@ -1,4 +1,4 @@
-//Access modifiers within the package
+///Access modifiers within the package
 class A
 {
 int A=5;
