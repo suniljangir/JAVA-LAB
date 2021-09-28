@@ -1,3 +1,4 @@
+////Default construtor
 class Day2P3
 {
 	public static void main(String args[])
