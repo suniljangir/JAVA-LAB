@@ -1,4 +1,4 @@
-// Hybrid inheritance(Mix of two inheritance)
+/// Hybrid inheritance(Mix of two inheritance)
 
 class A				//Super class
 {
