@@ -1,4 +1,4 @@
-// Hierarchical level inheritance
+/// Hierarchical level inheritance
 
 class A				//Super class
 {
