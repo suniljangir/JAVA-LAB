@@ -1,3 +1,5 @@
+//Default construtor & /para construtor
+
 class Day2P4
 {
 int a,b;
