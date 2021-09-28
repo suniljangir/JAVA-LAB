@@ -1,4 +1,4 @@
-// Single level inheritance
+/// Single level inheritance
 
 class A				//Super class
 {
