@@ -1,4 +1,5 @@
 //Method overriding in ineritance------ Same name, same argument list but different class.
+//Method overriding
 class A
 {
  private void sum(int x, int y)
