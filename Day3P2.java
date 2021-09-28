@@ -1,4 +1,4 @@
-// Multilevel level inheritance
+/// Multilevel level inheritance
 
 class A				//Super class
 {
