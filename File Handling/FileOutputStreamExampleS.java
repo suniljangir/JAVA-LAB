@@ -1,4 +1,4 @@
-//Java FileOutputStream example 2: write string
+///Java FileOutputStream example 2: write string
 
 import java.io.FileOutputStream;
 
