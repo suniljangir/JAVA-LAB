@@ -1,4 +1,4 @@
-//Java FileInputStream example: read all characters
+///Java FileInputStream example: read all characters
 
 import java.io.FileInputStream; 
 public class FileInputStreamExample 
