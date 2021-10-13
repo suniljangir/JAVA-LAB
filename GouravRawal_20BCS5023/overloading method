@@ -1,0 +1,35 @@
+/*in overloading method 
+*methods have same name but different signature 
+*signature mean different parameters*/
+
+class overloading
+{
+public void addition()
+{
+system.out.println("default addition is Zero");
+}
+public void addition(int x, int y)
+{
+system.out.println("addition of both these int values is "+(x+y));
+}
+public void addition(float x, float y)
+{
+system.out.println("addition of both these int values is "+(x+y));
+}
+public void addition(int x, int y , int z)
+{
+system.out.println("addition of both these int values is "+(x+y+z));
+}
+public void addition(float x, float y, float z)
+{
+system.out.println("addition of both these int values is "+(x+y+z));
+}
+public static void main (string args[])
+{
+overloading obj = new overloading();
+obj.addition();
+obj.addition(20,20);
+obj.addition(400,20,30);
+obj.addition(20.2f,30.2f);
+obj.addition(10.2f,30.2f,40.2f);
+}
